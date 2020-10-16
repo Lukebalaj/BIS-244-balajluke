@@ -26,4 +26,3 @@ p + geom_line(mapping = aes(group = Streamer)) +
        y = "Viewers",
        title = "Most Popular Twitch Streamers") +
   facet_wrap(~ Streamer)
-
